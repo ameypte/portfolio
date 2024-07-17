@@ -22,7 +22,7 @@ const projectsData = [
     image: "/images/projects/pass.png",
     tag: ["All", "Web", "Python"],
     gitUrl: "https://github.com/ameypte/Password-Manager",
-    previewUrl: "Password-Manager",
+    previewUrl: "https://github.com/ameypte/Password-Manager",
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const projectsData = [
     image: "/images/projects/cpu.png",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/ameypte/CPU-Scheduling-Simulator",
-    previewUrl: "#",
+    previewUrl: "https://github.com/ameypte/CPU-Scheduling-Simulator",
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ const projectsData = [
     image: "/images/projects/recipe.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/ameypte/recipe-app",
-    previewUrl: "/",
+    previewUrl: "https://github.com/ameypte/recipe-app"
   },
 ];
 
